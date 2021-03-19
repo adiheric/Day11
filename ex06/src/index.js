@@ -1,0 +1,4 @@
+function multiplyArrayFunction(arr){
+
+    
+}
